@@ -187,9 +187,10 @@ GridReprojector/
 ├── qgis_runtime.py
 ├── base_reprojector.py
 ├── timeseries_reprojector.py
+├── requirements.txt
 ├── README.md
-├── CHANGELOG.md
-└── VERSION
+├── LICENSE.txt
+└── CITATION.cff
 ```
 
 4. Open a terminal in that directory using a Python environment compatible with QGIS.
@@ -555,10 +556,17 @@ On Windows, GDAL/OGR can occasionally retain a file handle briefly. The applicat
 - `qgis_runtime.py`: portable PyQGIS runtime discovery and environment configuration.
 - `base_reprojector.py`: Base/Multifile spatial transfer engine and GUI components.
 - `timeseries_reprojector.py`: temporal matrix transfer engine and GUI components.
+- `requirements.txt`: external software requirements.
 - `README.md`: installation, methodology, and use instructions.
-- `CHANGELOG.md`: release history.
-- `VERSION`: software version.
-- `CITATION.cff.template`: citation metadata template to complete before repository/Zenodo release.
-- `LICENSE.template`: license template placeholder; choose the intended software license before public release.
-
+- `LICENSE.txt`: software license.
+- `CITATION.cff`: software citation metadata.
+- `.gitignore`: local development-file exclusions.
 ---
+
+# Citation
+
+For research and academic use, cite **Grid Reprojector v1.0.0** using the author and software metadata provided in [`CITATION.cff`](CITATION.cff). The release-specific Zenodo DOI can be added to the citation metadata once assigned.
+
+# License
+
+Grid Reprojector is distributed under the terms specified in [`LICENSE.txt`](LICENSE.txt).
