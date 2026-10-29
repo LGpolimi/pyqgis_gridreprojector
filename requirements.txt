@@ -1,0 +1,2 @@
+# Grid Reprojector has no pip-installed runtime dependencies.
+# PyQGIS and PyQt must be provided by a compatible QGIS installation.
