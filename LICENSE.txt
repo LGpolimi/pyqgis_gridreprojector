@@ -1,0 +1,177 @@
+GRID REPROJECTOR
+NonCommercial Attribution ShareAlike Software License
+Version 1.0
+
+Copyright (c) 2026 [CONFIRM COPYRIGHT HOLDER(S) BEFORE PUBLICATION]
+Original software repository: https://github.com/LGpolimi/pyqgis_gridreprojector
+
+This License applies to the original Grid Reprojector source code and related
+software materials for which the Copyright Holder has authority to grant rights.
+It does not replace licenses of independently licensed third-party software,
+including QGIS, PyQGIS, PyQt, or other dependencies.
+
+1. Purpose
+
+This License permits the Software to be used, studied, copied, modified, and redistributed for NonCommercial purposes, subject to attribution and ShareAlike requirements.
+
+Commercial use is not permitted under this License. Commercial rights may be granted separately by the Copyright Holder.
+
+2. Definitions
+
+Copyright Holder means the person(s) or legal entity(ies) owning the applicable
+copyright in the Software and authorized to grant this License.
+
+You means any individual or legal entity exercising rights under this License.
+
+Software means the source code, scripts, configuration files, and other software material distributed by the Copyright Holder under this License.
+
+Source Code means the preferred form of the Software for making modifications.
+
+Object Code means any compiled, packaged, executable, or otherwise transformed form of the Software that is not the Source Code.
+
+Modified Software means Software that has been altered, translated, adapted, extended, or otherwise modified in a manner that constitutes a derivative work under applicable copyright law.
+
+Software that merely communicates with the Software through ordinary interfaces, APIs, command line interfaces, file formats, or interprocess communication, without incorporating or modifying protected portions of the Software, is not considered Modified Software solely by reason of that interaction.
+
+Distribute means to provide, publish, transmit, make available, or otherwise supply copies of the Software or Modified Software to another person or to the public, whether in Source Code or Object Code form.
+
+NonCommercial means not primarily intended for or directed toward commercial advantage or monetary compensation.
+
+Receipt of a salary, public research funding, nonprofit research funding, scholarships, grants, or reimbursement of reasonable costs does not by itself make a use Commercial.
+
+Commercial Use means use primarily intended for or directed toward commercial advantage or monetary compensation, including use of the Software as a material component of a product or service offered for payment, use in delivering paid consultancy or contractual services, or resale or commercial licensing of the Software or Modified Software.
+
+3. License Grant
+
+Subject to the terms and conditions of this License, including the termination provisions in Section 15, the Copyright Holder grants You a worldwide, royalty-free, nonexclusive license for the duration of the applicable copyright to:
+
+use and execute the Software for NonCommercial purposes;
+reproduce the Software;
+inspect, study, and analyze the Source Code;
+modify the Software and create Modified Software for NonCommercial purposes;
+Distribute copies of the Software for NonCommercial purposes; and
+Distribute Modified Software for NonCommercial purposes, subject to the ShareAlike requirements of this License.
+
+Rights arising independently under applicable law, including statutory exceptions and limitations to copyright, are not restricted by this License.
+
+4. Attribution
+
+If You Distribute the Software or Modified Software, You must:
+
+retain all copyright, authorship, attribution, and licensing notices contained in the Software;
+include a copy of this License;
+identify the original Copyright Holder;
+provide a reference to the original repository or project location, where such reference was supplied with the Software; and
+clearly indicate whether You have modified the Software.
+
+Attribution may be provided in any reasonable manner appropriate to the medium of distribution.
+
+Attribution must not suggest that the Copyright Holder endorses You, Your work, Your organization, or Your use of the Software.
+
+5. ShareAlike
+
+If You Distribute Modified Software, the Modified Software must be licensed under this License, Version 1.0, or a later version of this License expressly designated as compatible by the Copyright Holder.
+
+You may not distribute Modified Software under terms that prevent recipients from exercising the rights granted by this License.
+
+The ShareAlike requirement applies to modifications and derivative works of the Software.
+
+It does not require independently developed software that merely interacts with the Software through ordinary interfaces, APIs, command line interfaces, file formats, or interprocess communication to be licensed under this License.
+
+6. Source Code Availability
+
+If You Distribute Modified Software in Object Code or another non-source form, You must also make the corresponding Source Code of the Modified Software available to recipients without additional charge.
+
+The corresponding Source Code must contain all modifications necessary to build, install, and run the Modified Software, excluding generally available tools and third party dependencies that are not themselves part of the Modified Software.
+
+The corresponding Source Code must be provided under this License.
+
+7. NonCommercial Restriction
+
+The rights granted by this License may be exercised only for NonCommercial purposes.
+
+Without separate permission from the Copyright Holder, You may not use the Software or Modified Software primarily for commercial advantage or monetary compensation.
+
+In particular, this License does not authorize You to sell the Software, commercially license the Software, incorporate the Software into a commercial product or paid service where the Software forms a material component of that product or service, or use the Software to provide paid services where execution or modification of the Software forms a material part of the service being provided.
+
+Commercial use may be authorized under a separate agreement with the Copyright Holder.
+
+8. Research and Educational Use
+
+Research, teaching, education, scholarly analysis, experimentation, validation, and publication may qualify as NonCommercial use when they are not primarily intended for commercial advantage or monetary compensation.
+
+Publication of research results obtained using the Software does not, by itself, constitute Commercial Use.
+
+Use within a university, public research institution, nonprofit research organization, public authority, or similar organization does not automatically make a use NonCommercial. The purpose and circumstances of the particular use determine whether it falls within the NonCommercial condition.
+
+9. No Additional Restrictions
+
+You may not impose legal terms, contractual conditions, access controls, digital rights management, or other technological measures on the Software or Modified Software that would legally prevent recipients from exercising the rights granted under this License.
+
+This does not prevent You from applying appropriate terms to independent material that is not subject to this License.
+
+10. Third Party Software
+
+This License applies only to material for which the Copyright Holder has authority to grant the rights described in this License.
+
+Third party libraries, packages, datasets, software components, or other materials included in or used by the Software remain subject to their respective licenses.
+
+Nothing in this License grants rights in third party material beyond those granted by the applicable third party license.
+
+11. Contributions
+
+Unless explicitly stated otherwise, any contribution intentionally submitted for inclusion in the Software is provided under the terms of this License.
+
+Contributors retain copyright in their respective contributions unless copyright ownership is transferred separately in writing.
+
+By submitting a contribution for inclusion in the Software, the contributor represents that they have the authority to provide the contribution under these terms.
+
+12. Patents and Trademarks
+
+This License does not grant any rights under patents, trademarks, service marks, trade names, logos, or other identifiers of the Copyright Holder, except to the limited extent necessary to provide the attribution required by this License.
+
+Use of the name or identity of the Copyright Holder for promotional or endorsement purposes is not permitted without separate authorization.
+
+13. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, NON-INFRINGEMENT, OR FITNESS FOR ANY PARTICULAR APPLICATION.
+
+YOU USE THE SOFTWARE AT YOUR OWN RISK.
+
+14. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER AND CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGE, LOSS, LIABILITY, OR OTHER CONSEQUENCE ARISING FROM OR RELATED TO THE SOFTWARE OR ITS USE, WHETHER IN CONTRACT, TORT, OR OTHERWISE.
+
+15. Termination
+
+This License remains effective for the duration of the applicable copyright.
+
+Your rights under this License terminate automatically if You fail to comply with its terms.
+
+If this is Your first violation of this License and You cure the violation within thirty days after discovering it or receiving notice of it, Your rights under this License are automatically reinstated.
+
+Termination of rights under this License does not affect licenses validly granted to recipients before termination, provided those recipients remain in compliance with this License.
+
+16. Separate Commercial Licensing
+
+The Copyright Holder may license the Software separately under different terms, including terms permitting Commercial Use.
+
+Nothing in this License prevents the Copyright Holder from entering into separate licensing agreements or granting additional permissions.
+
+17. Other Rights
+
+No rights are granted except those expressly stated in this License.
+
+Privacy rights, personality rights, database rights, patent rights, trademark rights, and other rights may independently restrict particular uses of the Software.
+
+18. Severability
+
+If any provision of this License is held to be invalid or unenforceable under applicable law, that provision shall be interpreted or modified to the minimum extent necessary to make it enforceable.
+
+If modification is not possible, the provision shall be severed without affecting the remaining provisions.
+
+19. Entire License
+
+This License constitutes the terms under which the Copyright Holder makes the Software available to the public.
+
+Additional permissions or agreements are effective only when separately granted by an authorized Copyright Holder.

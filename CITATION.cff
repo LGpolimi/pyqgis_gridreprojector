@@ -1,0 +1,34 @@
+# Confirm the complete list of software authors before publication.
+# The listed author is provisionally identified from the repository owner's public profile.
+# After Zenodo archives v1.0.0, add its version-specific DOI with the `doi` key.
+cff-version: 1.2.0
+message: "If you use Grid Reprojector in research, please cite the archived software release."
+title: "Grid Reprojector"
+type: software
+version: "1.0.0"
+authors:
+  - given-names: "Lorenzo"
+    family-names: "Gianquintieri"
+    affiliation: "Politecnico di Milano"
+    orcid: "https://orcid.org/0000-0002-9658-5749"
+abstract: >-
+  Grid Reprojector is a standalone PyQGIS application for transferring
+  numerical data between polygon grids. It supports single-file, batch,
+  and time-series workflows, intensive and extensive variables,
+  area-based areal interpolation, and alternative weighting in
+  single-file and batch modes.
+repository-code: "https://github.com/LGpolimi/pyqgis_gridreprojector"
+url: "https://github.com/LGpolimi/pyqgis_gridreprojector"
+# Non-standard license: use license-url, not an invented SPDX license identifier.
+license-url: "https://github.com/LGpolimi/pyqgis_gridreprojector/blob/main/LICENSE.txt"
+keywords:
+  - PyQGIS
+  - GIS
+  - areal interpolation
+  - spatial harmonization
+  - polygon grids
+  - area weighting
+  - geospatial analysis
+# Set the following only after the first GitHub release is archived on Zenodo:
+# doi: "10.5281/zenodo.XXXXXXXX"
+# date-released: YYYY-MM-DD
