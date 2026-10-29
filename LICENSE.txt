@@ -2,7 +2,7 @@ GRID REPROJECTOR
 NonCommercial Attribution ShareAlike Software License
 Version 1.0
 
-Copyright (c) 2026 [CONFIRM COPYRIGHT HOLDER(S) BEFORE PUBLICATION]
+Copyright (c) 2026
 Original software repository: https://github.com/LGpolimi/pyqgis_gridreprojector
 
 This License applies to the original Grid Reprojector source code and related
